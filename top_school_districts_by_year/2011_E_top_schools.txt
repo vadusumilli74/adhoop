@@ -1,0 +1,151 @@
+966	White (59%)|4.62|2|Los Altos Elementary, Santa Clara
+958	Asian (74%)|4.54|5|Cupertino Union, Santa Clara
+954	White (76%)|4.51|1|Manhattan Beach Unified, Los Angeles
+952	White (64%)|4.53|4|Del Mar Union Elementary, San Diego
+951	Asian (68%)|4.12|17|Arcadia Unified, Los Angeles
+948	White (58%)|4.45|2|Palos Verdes Peninsula Unified, Los Angeles
+945	White (59%)|3.98|10|Los Alamitos Unified, Orange
+941	White (52%)|4.56|9|Palo Alto Unified, Santa Clara
+938	Asian (47%)|0.00|11|Irvine Unified, Orange AND White (85%)|4.56|4|Mill Valley Elementary, Marin
+937	White (55%)|4.31|3|San Ramon Valley Unified, Contra Costa
+936	White (71%)|4.32|10|Solana Beach Elementary, San Diego
+926	White (61%)|3.89|17|Union Elementary, Santa Clara
+924	Asian (57%)|3.92|16|Walnut Valley Unified, Los Angeles
+923	White (53%)|4.21|7|Pleasanton Unified, Alameda
+919	White (38%)|3.71|20|Castro Valley Unified, Alameda AND White (54%)|4.09|15|Poway Unified, San Diego
+911	White (55%)|3.82|21|Redondo Beach Unified, Los Angeles
+910	White (67%)|4.12|12|Walnut Creek Elementary, Contra Costa AND White (58%)|3.96|5|Belmont-Redwood Shores Element, San Mateo
+908	White (48%)|3.72|22|Fountain Valley Elementary, Orange
+907	White (58%)|4.07|12|Burlingame Elementary, San Mateo
+906	White (74%)|4.03|15|Encinitas Union Elementary, San Diego
+903	White (49%)|3.50|41|Clovis Unified, Fresno AND White (79%)|4.08|9|Eureka Union, Placer
+901	White (70%)|3.86|18|Huntington Beach City Elementa, Orange AND White (80%)|3.89|7|Las Virgenes Unified, Los Angeles AND White (61%)|3.72|25|Carlsbad Unified, San Diego
+899	White (41%)|3.80|12|Dublin Unified, Alameda
+898	Hispanic or Latino (45%)|3.50|22|Etiwanda Elementary, San Bernardino
+897	White (43%)|3.34|32|Newhall, Los Angeles AND Hispanic or Latino (50%)|2.75|58|Lake Elsinore Unified, Riverside AND White (56%)|3.89|27|Santa Monica-Malibu Unified, Los Angeles
+895	Asian (56%)|3.73|25|Fremont Unified, Alameda AND Hispanic or Latino (49%)|3.45|31|Bonita Unified, Los Angeles
+894	White (51%)|3.46|21|Temecula Valley Unified, Riverside
+893	White (74%)|3.75|19|Rocklin Unified, Placer AND White (41%)|3.65|26|Brea-Olinda Unified, Orange
+892	White (78%)|3.86|16|Buckeye Union Elementary, El Dorado AND White (50%)|3.51|27|Glendora Unified, Los Angeles
+891	White (88%)|3.67|20|Loomis Union Elementary, Placer
+888	Hispanic or Latino (44%)|3.05|46|San Marcos Unified, San Diego
+884	White (75%)|3.98|13|Rescue Union Elementary, El Dorado AND White (47%)|3.53|31|Placentia-Yorba Linda Unified, Orange
+882	White (60%)|4.33|23|Davis Joint Unified, Yolo AND Hispanic or Latino (35%)|3.27|34|Moreland Elementary, Santa Clara AND White (48%)|3.45|31|Alta Loma Elementary, San Bernardino
+880	Asian (50%)|3.10|35|Evergreen Elementary, Santa Clara
+879	White (65%)|3.67|23|Capistrano Unified, Orange
+877	Asian (35%)|3.63|27|Torrance Unified, Los Angeles AND White (36%)|3.42|32|Alameda City Unified, Alameda
+875	White (56%)|3.23|46|Glendale Unified, Los Angeles AND Asian (34%)|3.54|31|Cypress Elementary, Orange
+873	White (53%)|3.37|36|Novato Unified, Marin AND White (58%)|3.54|26|Saddleback Valley Unified, Orange
+872	White (63%)|3.57|28|Conejo Valley Unified, Ventura AND Hispanic or Latino (41%)|3.48|43|Culver City Unified, Los Angeles AND White (66%)|3.38|33|Roseville City Elementary, Placer
+871	Hispanic or Latino (61%)|3.33|32|Lowell Joint, Los Angeles AND White (54%)|3.47|19|Saugus Union, Los Angeles
+870	White (66%)|3.47|36|Dry Creek Joint Elementary, Placer AND Hispanic or Latino (78%)|2.89|48|East Whittier City Elementary, Los Angeles
+869	Hispanic or Latino (50%)|3.29|42|Goleta Union Elementary, Santa Barbara
+867	White (46%)|3.16|40|Ocean View, Orange AND White (51%)|3.42|29|Murrieta Valley Unified, Riverside
+865	Hispanic or Latino (44%)|3.24|41|Tustin Unified, Orange
+864	White (44%)|3.72|40|Claremont Unified, Los Angeles AND Asian (45%)|3.17|40|Milpitas Unified, Santa Clara
+863	Hispanic or Latino (74%)|2.56|65|West Covina Unified, Los Angeles
+862	Asian (53%)|3.22|51|San Gabriel Unified, Los Angeles
+861	Asian (55%)|3.24|39|Berryessa Union Elementary, Santa Clara
+860	White (64%)|3.62|35|San Luis Coastal Unified, San Luis Obispo
+859	White (43%)|2.81|42|Menifee Union Elementary, Riverside AND White (54%)|3.59|20|Pleasant Valley, Ventura AND White (50%)|3.41|43|Burbank Unified, Los Angeles AND White (67%)|3.16|35|Santee Elementary, San Diego
+858	White (48%)|3.31|37|Moorpark Unified, Ventura AND Hispanic or Latino (58%)|3.10|42|Chino Valley Unified, San Bernardino
+857	Hispanic or Latino (49%)|3.07|34|Fullerton Elementary, Orange
+856	White (55%)|3.73|20|Pacifica, San Mateo AND White (62%)|3.33|37|Ripon Unified, San Joaquin
+855	White (61%)|3.11|39|Ramona City Unified, San Diego AND Hispanic or Latino (67%)|3.03|46|Chula Vista Elementary, San Diego
+854	Hispanic or Latino (60%)|2.99|51|South San Francisco Unified, San Mateo
+853	Hispanic or Latino (47%)|3.21|56|Redlands Unified, San Bernardino
+852	Hispanic or Latino (52%)|3.11|54|Upland Unified, San Bernardino AND Hispanic or Latino (47%)|2.87|59|Beaumont Unified, Riverside AND Hispanic or Latino (50%)|3.30|44|Mountain View Whisman, Santa Clara
+850	White (58%)|2.99|34|Simi Valley Unified, Ventura AND White (55%)|3.17|33|Livermore Valley Joint Unified, Alameda
+849	Asian (49%)|2.89|68|Alhambra Unified, Los Angeles
+848	Hispanic or Latino (38%)|3.00|44|Santa Clara Unified, Santa Clara AND Hispanic or Latino (54%)|3.04|52|Centralia Elementary, Orange
+847	Hispanic or Latino (50%)|3.19|48|Central Elementary, San Bernardino
+846	White (55%)|3.11|51|Lucia Mar Unified, San Luis Obispo AND Hispanic or Latino (45%)|3.15|54|ABC Unified, Los Angeles
+845	Hispanic or Latino (52%)|2.89|47|Corona-Norco Unified, Riverside AND White (37%)|3.69|52|Berkeley Unified, Alameda
+843	White (49%)|3.14|49|Newport-Mesa Unified, Orange
+842	White (44%)|3.17|40|Westside Union Elementary, Los Angeles AND Hispanic or Latino (89%)|2.61|71|Little Lake City Elementary, Los Angeles AND Hispanic or Latino (51%)|2.85|46|Orange Unified, Orange
+841	White (62%)|3.43|29|Rosedale Union Elementary, Kern AND Hispanic or Latino (35%)|3.40|35|San Mateo-Foster City, San Mateo
+840	Hispanic or Latino (44%)|2.96|53|Sunnyvale, Santa Clara AND Hispanic or Latino (46%)|2.86|32|San Bruno Park Elementary, San Mateo
+838	Hispanic or Latino (80%)|2.54|76|Hacienda la Puente Unified, Los Angeles
+836	White (61%)|3.34|34|Western Placer Unified, Placer
+835	White (44%)|2.85|54|Sylvan Union Elementary, Stanislaus AND White (46%)|3.47|30|Travis Unified, Solano
+832	Hispanic or Latino (77%)|2.41|84|Val Verde Unified, Riverside AND Hispanic or Latino (70%)|2.34|83|Sanger Unified, Fresno
+831	Hispanic or Latino (54%)|2.67|70|Garden Grove Unified, Orange AND White (52%)|2.89|30|Brentwood Union Elementary, Contra Costa AND Hispanic or Latino (60%)|3.07|47|Charter Oak Unified, Los Angeles
+829	White (60%)|3.47|39|Folsom-Cordova Unified, Sacramento AND Hispanic or Latino (55%)|2.84|69|Long Beach Unified, Los Angeles
+828	Hispanic or Latino (56%)|2.91|53|San Jose Unified, Santa Clara AND Hispanic or Latino (29%)|3.07|56|Elk Grove Unified, Sacramento AND Hispanic or Latino (48%)|3.20|37|Sulphur Springs Union, Los Angeles AND Asian (42%)|2.62|67|Westminster Elementary, Orange
+826	Hispanic or Latino (50%)|2.86|68|San Diego Unified, San Diego AND Hispanic or Latino (64%)|2.65|60|San Rafael City Elementary, Marin
+825	White (62%)|2.87|57|Sierra Sands Unified, Kern
+824	White (42%)|3.19|43|Mt. Diablo Unified, Contra Costa AND Hispanic or Latino (74%)|2.61|60|Gilroy Unified, Santa Clara AND White (61%)|3.02|48|Petaluma City Schools, Sonoma
+823	White (76%)|3.01|44|Amador County Unified, Amador AND Hispanic or Latino (55%)|2.61|61|Galt Joint Union Elementary, Sacramento AND White (54%)|3.18|39|Orcutt Union Elementary, Santa Barbara AND Hispanic or Latino (38%)|3.03|48|New Haven Unified, Alameda AND Hispanic or Latino (50%)|2.80|52|Fairfield-Suisun Unified, Solano
+822	White (69%)|2.78|67|Enterprise Elementary, Shasta
+821	Hispanic or Latino (75%)|2.37|73|Desert Sands Unified, Riverside AND Hispanic or Latino (60%)|2.88|58|Monrovia Unified, Los Angeles
+820	White (67%)|3.12|50|Lakeside Union Elementary, San Diego AND Hispanic or Latino (85%)|2.64|70|Downey Unified, Los Angeles
+819	White (53%)|3.02|55|Snowline Joint Unified, San Bernardino AND Hispanic or Latino (76%)|2.83|66|Covina-Valley Unified, Los Angeles AND White (65%)|3.28|42|Atascadero Unified, San Luis Obispo
+817	Hispanic or Latino (63%)|2.58|71|Buena Park Elementary, Orange AND Hispanic or Latino (48%)|2.91|56|La Mesa-Spring Valley, San Diego AND Hispanic or Latino (78%)|2.44|81|Lawndale Elementary, Los Angeles
+816	Hispanic or Latino (48%)|2.84|49|Oakley Union Elementary, Contra Costa AND Asian (37%)|2.77|63|San Francisco Unified, San Francisco AND White (80%)|3.01|59|Redding Elementary, Shasta AND Hispanic or Latino (81%)|2.51|69|Norwalk-La Mirada Unified, Los Angeles
+815	Asian (57%)|2.35|82|Garvey Elementary, Los Angeles AND Hispanic or Latino (47%)|2.83|50|Oak Grove Elementary, Santa Clara AND White (45%)|2.69|65|Apple Valley Unified, San Bernardino AND Hispanic or Latino (67%)|2.32|69|Atwater Elementary, Merced AND Hispanic or Latino (39%)|2.62|70|Yuba City Unified, Sutter
+813	Hispanic or Latino (49%)|2.82|51|Paso Robles Joint Unified, San Luis Obispo AND Hispanic or Latino (94%)|1.49|78|Santa Paula Elementary, Ventura
+812	Hispanic or Latino (53%)|2.65|51|Fallbrook Union Elementary, San Diego AND White (53%)|3.00|45|Vacaville Unified, Solano
+811	White (65%)|3.30|53|San Juan Unified, Sacramento AND Hispanic or Latino (71%)|2.41|78|Magnolia Elementary, Orange
+810	Hispanic or Latino (66%)|2.62|71|Bellflower Unified, Los Angeles
+809	Filipino (39%)|2.78|62|Jefferson Elementary, San Mateo AND Hispanic or Latino (63%)|2.60|74|Pasadena Unified, Los Angeles
+806	Hispanic or Latino (51%)|3.14|55|Ventura Unified, Ventura AND Hispanic or Latino (86%)|2.39|75|La Habra City Elementary, Orange
+805	Hispanic or Latino (57%)|2.65|71|Victor Elementary, San Bernardino AND Hispanic or Latino (88%)|2.43|85|Selma Unified, Fresno AND Hispanic or Latino (59%)|2.67|66|Riverside Unified, Riverside AND Hispanic or Latino (68%)|2.16|81|Hanford Elementary, Kings
+804	Hispanic or Latino (76%)|2.57|75|Duarte Unified, Los Angeles AND Hispanic or Latino (49%)|3.08|43|Morgan Hill Unified, Santa Clara
+803	Hispanic or Latino (51%)|2.93|40|Napa Valley Unified, Napa AND Hispanic or Latino (51%)|2.29|62|Panama-Buena Vista Union, Kern
+802	White (63%)|2.83|68|Morongo Unified, San Bernardino
+801	Hispanic or Latino (64%)|2.61|66|Rowland Unified, Los Angeles AND Hispanic or Latino (97%)|1.83|89|Lennox, Los Angeles AND Hispanic or Latino (54%)|2.74|68|Central Unified, Fresno
+800	Hispanic or Latino (91%)|2.07|87|Baldwin Park Unified, Los Angeles
+799	Hispanic or Latino (46%)|2.79|59|Stanislaus Union Elementary, Stanislaus AND Hispanic or Latino (63%)|2.30|84|Banning Unified, Riverside
+798	Hispanic or Latino (73%)|2.10|83|Ceres Unified, Stanislaus AND White (51%)|2.71|58|Cajon Valley Union, San Diego AND Hispanic or Latino (66%)|2.56|65|Vista Unified, San Diego
+797	White (57%)|2.78|55|Yucaipa-Calimesa Joint Unified, San Bernardino AND Hispanic or Latino (51%)|2.32|76|Hemet Unified, Riverside AND Hispanic or Latino (78%)|2.15|98|Alum Rock Union Elementary, Santa Clara
+796	Hispanic or Latino (52%)|2.88|57|Newark Unified, Alameda AND Hispanic or Latino (57%)|2.69|61|Oceanside Unified, San Diego AND Hispanic or Latino (71%)|2.30|87|Hawthorne, Los Angeles
+795	Hispanic or Latino (96%)|1.70|88|Santa Ana Unified, Orange AND Hispanic or Latino (53%)|2.42|67|Barstow Unified, San Bernardino AND Hispanic or Latino (61%)|2.56|70|Hesperia Unified, San Bernardino
+794	Hispanic or Latino (80%)|2.35|85|Greenfield Union, Kern
+793	Hispanic or Latino (83%)|2.31|81|Kings Canyon Joint Unified, Fresno
+792	Hispanic or Latino (91%)|2.60|80|El Centro Elementary, Imperial
+791	Hispanic or Latino (42%)|2.63|53|Oakland Unified, Alameda AND Hispanic or Latino (69%)|2.40|76|Tulare City, Tulare AND Hispanic or Latino (76%)|2.36|81|Los Angeles Unified, Los Angeles AND Hispanic or Latino (48%)|2.82|51|San Leandro Unified, Alameda
+790	White (63%)|3.16|49|Chico Unified, Butte AND Hispanic or Latino (61%)|2.23|89|Inglewood Unified, Los Angeles AND Hispanic or Latino (61%)|2.62|100|Lemon Grove, San Diego AND Hispanic or Latino (39%)|2.99|61|Lincoln Unified, San Joaquin AND Hispanic or Latino (76%)|2.52|74|Los Banos Unified, Merced
+789	Hispanic or Latino (81%)|2.23|79|Jurupa Unified, Riverside
+788	Hispanic or Latino (94%)|2.34|66|Whittier City Elementary, Los Angeles AND Hispanic or Latino (53%)|2.97|51|Tracy Joint Unified, San Joaquin
+786	Hispanic or Latino (79%)|2.21|75|Alvord Unified, Riverside
+785	Hispanic or Latino (83%)|1.86|83|Compton Unified, Los Angeles AND Hispanic or Latino (86%)|2.34|93|Fontana Unified, San Bernardino
+784	Hispanic or Latino (59%)|2.56|68|Empire Union Elementary, Stanislaus AND Hispanic or Latino (99%)|2.06|100|National Elementary, San Diego AND Hispanic or Latino (75%)|2.48|61|Santa Barbara Unified, Santa Barbara AND Hispanic or Latino (65%)|2.28|74|Santa Rosa City Schools, Sonoma AND Hispanic or Latino (38%)|2.64|76|Sacramento City Unified, Sacramento
+783	Hispanic or Latino (76%)|2.14|86|Palm Springs Unified, Riverside
+782	Hispanic or Latino (83%)|1.98|89|Porterville Unified, Tulare
+781	Hispanic or Latino (59%)|2.32|81|Franklin-McKinley Elementary, Santa Clara AND White (51%)|2.89|51|Cotati-Rohnert Park Unified, Sonoma
+780	Hispanic or Latino (42%)|2.36|80|Marysville Joint Unified, Yuba AND Hispanic or Latino (78%)|1.98|87|El Monte City Elementary, Los Angeles
+778	Hispanic or Latino (88%)|2.05|93|Paramount Unified, Los Angeles AND Hispanic or Latino (70%)|2.42|47|Redwood City Elementary, San Mateo AND Hispanic or Latino (92%)|2.32|100|Dinuba Unified, Tulare
+777	Hispanic or Latino (86%)|2.27|86|Anaheim City, Orange AND Hispanic or Latino (59%)|2.58|72|Turlock Unified, Stanislaus AND Hispanic or Latino (62%)|2.37|84|Pittsburg Unified, Contra Costa AND Hispanic or Latino (80%)|2.20|93|Rialto Unified, San Bernardino
+776	Hispanic or Latino (42%)|2.39|71|Washington Unified, Yolo AND Hispanic or Latino (67%)|2.50|83|Moreno Valley Unified, Riverside AND Hispanic or Latino (70%)|2.32|79|San Jacinto Unified, Riverside AND Hispanic or Latino (80%)|2.46|76|Colton Joint Unified, San Bernardino
+775	Hispanic or Latino (93%)|1.73|99|Mountain View Elementary, Los Angeles
+774	Hispanic or Latino (77%)|2.56|66|Hollister, San Benito AND Hispanic or Latino (63%)|2.59|65|Lompoc Unified, Santa Barbara AND Hispanic or Latino (89%)|2.16|84|Ontario-Montclair Elementary, San Bernardino AND Hispanic or Latino (64%)|2.68|81|Merced City Elementary, Merced
+773	Hispanic or Latino (79%)|2.45|78|South Bay Union Elementary, San Diego AND Hispanic or Latino (50%)|2.63|63|Manteca Unified, San Joaquin AND Hispanic or Latino (28%)|2.95|53|Natomas Unified, Sacramento
+771	Hispanic or Latino (87%)|2.15|87|San Ysidro Elementary, San Diego AND Hispanic or Latino (43%)|2.34|82|Twin Rivers Unified, Sacramento AND Hispanic or Latino (57%)|2.64|63|Monterey Peninsula Unified, Monterey AND Hispanic or Latino (92%)|2.07|83|Azusa Unified, Los Angeles
+770	Hispanic or Latino (52%)|2.37|72|West Contra Costa Unified, Contra Costa
+767	Hispanic or Latino (67%)|2.18|81|Modesto City Elementary, Stanislaus AND Hispanic or Latino (67%)|2.54|68|Woodland Joint Unified, Yolo
+766	Hispanic or Latino (64%)|2.73|74|Visalia Unified, Tulare
+765	Hispanic or Latino (84%)|2.35|81|Pomona Unified, Los Angeles AND White (58%)|2.55|68|Del Norte County Unified, Del Norte AND Hispanic or Latino (43%)|2.67|66|Antioch Unified, Contra Costa
+764	Hispanic or Latino (99%)|2.33|71|El Rancho Unified, Los Angeles AND Hispanic or Latino (95%)|2.21|92|Soledad Unified, Monterey
+762	Hispanic or Latino (86%)|1.87|83|Madera Unified, Madera AND Hispanic or Latino (87%)|1.77|78|Delano Union Elementary, Kern
+761	Hispanic or Latino (67%)|2.40|83|Adelanto Elementary, San Bernardino AND Hispanic or Latino (95%)|2.17|92|Montebello Unified, Los Angeles AND Hispanic or Latino (72%)|2.26|72|Escondido Union, San Diego
+760	Hispanic or Latino (57%)|2.72|66|San Lorenzo Unified, Alameda
+759	Hispanic or Latino (44%)|2.37|70|Robla Elementary, Sacramento
+758	Hispanic or Latino (72%)|2.31|84|Palmdale Elementary, Los Angeles
+757	Hispanic or Latino (42%)|2.53|71|Lodi Unified, San Joaquin
+756	Hispanic or Latino (81%)|2.16|83|Hueneme Elementary, Ventura AND Hispanic or Latino (93%)|2.03|81|South Whittier Elementary, Los Angeles
+755	Hispanic or Latino (38%)|2.63|67|Vallejo City Unified, Solano
+750	Hispanic or Latino (66%)|2.29|91|Fresno Unified, Fresno
+748	Hispanic or Latino (78%)|2.22|87|Bakersfield City, Kern
+747	Hispanic or Latino (74%)|2.09|87|San Bernardino City Unified, San Bernardino
+746	Hispanic or Latino (60%)|2.45|66|Sonoma Valley Unified, Sonoma
+743	Hispanic or Latino (94%)|1.95|89|Lynwood Unified, Los Angeles AND Hispanic or Latino (84%)|2.03|83|Salinas City Elementary, Monterey
+742	Hispanic or Latino (78%)|2.30|75|Pajaro Valley Unified, Santa Cruz AND Hispanic or Latino (86%)|1.86|87|Perris Elementary, Riverside
+731	Hispanic or Latino (76%)|2.41|81|Keppel Union Elementary, Los Angeles
+730	Hispanic or Latino (61%)|2.44|71|Hayward Unified, Alameda AND Hispanic or Latino (90%)|1.91|86|Oxnard, Ventura AND Hispanic or Latino (84%)|2.46|80|Rio Elementary, Ventura
+729	Hispanic or Latino (79%)|1.83|89|Ravenswood City Elementary, San Mateo AND Hispanic or Latino (50%)|2.47|75|Lancaster Elementary, Los Angeles
+725	Hispanic or Latino (92%)|1.58|99|Santa Maria-Bonita, Santa Barbara
+724	Hispanic or Latino (95%)|1.75|98|Alisal Union, Monterey
+720	Hispanic or Latino (51%)|2.33|75|Ukiah Unified, Mendocino
+715	Hispanic or Latino (99%)|2.45|70|Calexico Unified, Imperial
+712	Hispanic or Latino (97%)|1.73|99|Coachella Valley Unified, Riverside
+699	Hispanic or Latino (60%)|2.28|90|Stockton Unified, San Joaquin
