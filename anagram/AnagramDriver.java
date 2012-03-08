@@ -1,5 +1,4 @@
 import org.apache.hadoop.fs.Path;
-import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapred.FileInputFormat;
 import org.apache.hadoop.mapred.FileOutputFormat;
@@ -10,15 +9,16 @@ import org.apache.hadoop.conf.Configured;
 import org.apache.hadoop.util.Tool;
 import org.apache.hadoop.util.ToolRunner;
 
-public class AnagramDriver extends Configured implements Tool {
+public class AnagramDriver extends Configured implements Tool
+{
 
   @Override
-  public int run(String[] args) throws Exception {
+  public int run(String[] args) throws Exception
+  {
 
-    if (args.length != 2) {
-      System.out.printf(
-          "Usage: %s [generic options] <input dir> <output dir>\n", getClass()
-              .getSimpleName());
+    if (args.length != 2)
+    {
+      System.out.printf("Usage: %s [generic options] <input dir> <output dir>\n", getClass().getSimpleName());
       ToolRunner.printGenericCommandUsage(System.out);
       return -1;
     }
@@ -32,6 +32,8 @@ public class AnagramDriver extends Configured implements Tool {
     conf.setMapperClass(AnagramMapper.class);
     conf.setReducerClass(AnagramReducer.class);
 
+    conf.setNumReduceTasks(5);
+
     conf.setMapOutputKeyClass(Text.class);
     conf.setMapOutputValueClass(Text.class);
 
@@ -42,7 +44,8 @@ public class AnagramDriver extends Configured implements Tool {
     return 0;
   }
 
-  public static void main(String[] args) throws Exception {
+  public static void main(String[] args) throws Exception
+  {
     int exitCode = ToolRunner.run(new AnagramDriver(), args);
     System.exit(exitCode);
   }

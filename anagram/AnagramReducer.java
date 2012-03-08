@@ -7,33 +7,32 @@ import org.apache.hadoop.mapred.MapReduceBase;
 import org.apache.hadoop.mapred.Reducer;
 import org.apache.hadoop.mapred.Reporter;
 
-public class AnagramReducer extends MapReduceBase implements
-    Reducer<Text, Text, Text, Text> {
+public class AnagramReducer extends MapReduceBase implements Reducer<Text, Text, Text, Text>
+{
 
   @Override
-  public void reduce(Text key, Iterator<Text> values,
-      OutputCollector<Text, Text> output, Reporter reporter)
-      throws IOException {
+  public void reduce(Text key, Iterator<Text> values, OutputCollector<Text, Text> output, Reporter reporter)
+      throws IOException
+  {
 
     String newKey = "";
-    String anagrams = "";
-    int count = 0;
-    while (values.hasNext()) {
-      count++;
-      if (count == 1)
+    String newValue = "";
+    while (values.hasNext())
+    {
+      if (newKey.length() == 0)
       {
-       	newKey = values.next().toString();
+        newKey = values.next().toString();
       }
       else
       {
-        anagrams += values.next().toString() + ",";
+        newValue += ", " + values.next().toString();
       }
     }
-    
-    if (count > 1)
+
+    if (newValue.length() > 0)
     {
-      anagrams = anagrams.substring(0, anagrams.length() - 1);
-      output.collect(new Text(newKey), new Text(anagrams));
+      newValue = newValue.substring(2);
+      output.collect(new Text(newKey), new Text(newValue));
     }
 
   }
