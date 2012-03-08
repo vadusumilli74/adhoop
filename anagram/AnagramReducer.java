@@ -10,6 +10,11 @@ import org.apache.hadoop.mapred.Reporter;
 public class AnagramReducer extends MapReduceBase implements Reducer<Text, Text, Text, Text>
 {
 
+  // Input Key: Sorted Characters of Word
+  // Input Value: [First Anagram Word, Second Anagram Word, Third Anagram Word...]
+  //
+  // Output Key: First Anagram Word
+  // Output Value: Second Anagram Word, Third Anagram Word...
   @Override
   public void reduce(Text key, Iterator<Text> values, OutputCollector<Text, Text> output, Reporter reporter)
       throws IOException

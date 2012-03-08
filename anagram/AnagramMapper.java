@@ -11,6 +11,11 @@ import org.apache.hadoop.mapred.Reporter;
 public class AnagramMapper extends MapReduceBase implements Mapper<LongWritable, Text, Text, Text>
 {
 
+  // Input Key: Line Number
+  // Input Value: Word
+  //
+  // Output Key: Sorted Characters of Word
+  // Output Value: Word
   @Override
   public void map(LongWritable key, Text value, OutputCollector<Text, Text> output, Reporter reporter)
       throws IOException
