@@ -1,0 +1,6 @@
+Found 5 items
+-rw-r--r--   2 hdfs hadoop       3788 2012-03-29 18:50 /user/hdfs/outputGenerateRowNumber/M_txt-r-00000
+-rw-r--r--   2 hdfs hadoop       3899 2012-03-29 18:50 /user/hdfs/outputGenerateRowNumber/N_txt-r-00000
+-rw-r--r--   2 hdfs hadoop          0 2012-03-29 18:50 /user/hdfs/outputGenerateRowNumber/_SUCCESS
+drwxr-xr-x   - hdfs hadoop          0 2012-03-29 18:49 /user/hdfs/outputGenerateRowNumber/_logs
+-rw-r--r--   2 hdfs hadoop          0 2012-03-29 18:50 /user/hdfs/outputGenerateRowNumber/part-00000
