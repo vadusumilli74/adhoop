@@ -1,0 +1,10 @@
+.....Time Period: Year / Month	2011 / 12	2011 / 11	2011 / 10	
+.......................On Time	416669		407760		431461		
+.............Air Carrier Delay	22047		18967		20336		
+.................Weather Delay	1642		1222		1322		
+National Aviation System Delay	23162		23422		23222		
+................Security Delay	133		123		134		
+........Aircraft Arriving Late	25627		22541		23202		
+.....................Cancelled	3713		3228		3901		
+......................Diverted	893		773		816		
+..............Total Operations	493888		478040		504397		
